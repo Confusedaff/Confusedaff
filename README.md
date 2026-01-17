@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Krishnaprasad
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Flutter+%7C+Firebase+%7C+Supabase;Building+Autonomous+Systems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Flutter+%7C+Python+%7C+Supabase;Building+Autonomous+Systems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
