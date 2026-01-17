@@ -93,14 +93,11 @@ Whether you want to discuss **mobile development**, **IoT systems**, **autonomou
   <a href="https://github.com/Confusedaff">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  
   <a href="mailto:krishnaprasadps004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
